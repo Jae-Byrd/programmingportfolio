@@ -9,7 +9,7 @@
   
 ## Term 1
 ### Etch-A-Sketch
-Graphics project with keypress drawing xontrols witht the abilility to draw something and save it.
+Graphics project with keypress drawing controls witht the abilility to draw something and save it.
 ![Running App]()
 [Source Code]()
 
