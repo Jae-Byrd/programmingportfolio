@@ -10,7 +10,7 @@
 ## Term 1
 ### Etch-A-Sketch
 Graphics project with keypress drawing controls witht the abilility to draw something and save it.
-![Running App]()
+![Running App](https://github.com/Jae-Byrd/programmingportfolio/blob/main/images/SketchEtchA.png?raw=true)
 [Source Code]()
 
 ## Term 2
