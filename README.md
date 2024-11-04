@@ -8,5 +8,10 @@
 [Link to gethub](https://github.com/) 
   
 ## Term 1
+### Etch-A-Sketch
+Graphics project with keypress drawing xontrols witht the abilility to draw something and save it.
+![Running App]()
+[Source Code]()
 
 ## Term 2
+### Calculator
