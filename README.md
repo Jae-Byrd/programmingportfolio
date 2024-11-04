@@ -5,7 +5,7 @@
 
 ![Snail on leaf](https://cdn.hswstatic.com/gif/snail-shell.jpg)
 
-[Link to gethub](https://github.com/) 
+[Link to github](https://github.com/) 
   
 ## Term 1
 ### Etch-A-Sketch
