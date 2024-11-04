@@ -17,7 +17,7 @@ Graphics project with keypress drawing controls witht the abilility to draw some
 
 ## Term 2
 ### Calculator
-Description
+Programming project that includes mouse click and keypressed controls for a working calculator.
 
 ![Running App](https://github.com/Jae-Byrd/programmingportfolio/blob/main/images/calcul.png?raw=true)
 
