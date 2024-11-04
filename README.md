@@ -1,6 +1,6 @@
 # Jae Karppinen's Programming Portfolio 2024-25
 Contact information:
-[Email](9687565@graniteschools.org)
+<a href="9687565@graniteschools.org">9687565@graniteschools.org</a>
 * Projected graduation in 2027
 * typing at 42WPM
 * previous experience: ECS using HTML
