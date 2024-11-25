@@ -15,6 +15,11 @@ Graphics project with keypress drawing controls witht the abilility to draw some
 ![Running App](https://github.com/Jae-Byrd/programmingportfolio/blob/main/images/SketchEtchA.png?raw=true)
 [Source Code](https://github.com/Jae-Byrd/programmingportfolio/blob/main/src/term1/EtchASketch/EtchASketch.pde)
 
+![RunningApp]()
+[Source Code]()
+
+![Running App]()
+[Sorce Code]()
 ## Term 2
 ### Calculator
 Programming project that includes mouse click and keypressed controls for a working calculator.
