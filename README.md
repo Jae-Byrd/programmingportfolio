@@ -15,7 +15,7 @@ Graphics project with keypress drawing controls witht the abilility to draw some
 ![Running App](https://github.com/Jae-Byrd/programmingportfolio/blob/main/images/SketchEtchA.png?raw=true)
 [Source Code](https://github.com/Jae-Byrd/programmingportfolio/blob/main/src/term1/EtchASketch/EtchASketch.pde)
 
-![RunningApp]()
+![RunningApp](https://github.com/Jae-Byrd/programmingportfolio/blob/main/images/Screenshot%202024-11-25%20at%2011.56.46%20AM.png)
 [Source Code]()
 
 ![Running App]()
