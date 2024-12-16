@@ -4,13 +4,14 @@ Contact information:
 * Projected graduation in 2027
 * typing at 42WPM
 * previous experience: ECS using HTML
+[Link to GitHub](https://github.com/Jae-Byrd/programmingportfolio)
 
 ![Snail on leaf](https://cdn.hswstatic.com/gif/snail-shell.jpg)
 
 # Certificates:
 ![Programming certificate](https://github.com/Jae-Byrd/programmingportfolio/blob/main/images/Jae%20E%20Karppinen_Computer%20Programming%20I_12162024.pdf)
 
-[Link to GitHub](https://github.com/Jae-Byrd/programmingportfolio)
+
   
 ## Term 1
 ### Etch-A-Sketch
