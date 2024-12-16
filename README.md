@@ -10,6 +10,7 @@ Contact information:
 # Certificates:
 ![Programming certificate](https://github.com/Jae-Byrd/programmingportfolio/blob/main/images/Jae%20E%20Karppinen_Computer%20Programming%20I_12162024.pdf)
 
+[Link to GitHub]()
   
 ## Term 1
 ### Etch-A-Sketch
