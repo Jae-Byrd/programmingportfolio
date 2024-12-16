@@ -4,6 +4,7 @@ Contact information:
 * Projected graduation in 2027
 * typing at 42WPM
 * previous experience: ECS using HTML
+
 [Link to GitHub](https://github.com/Jae-Byrd/programmingportfolio)
 
 ![Snail on leaf](https://cdn.hswstatic.com/gif/snail-shell.jpg)
