@@ -30,7 +30,7 @@ Programming project that includes mouse click and keypressed controls for a work
 
 [Source Code](https://github.com/Jae-Byrd/programmingportfolio/blob/main/src/term2/Calculator/Calculator.pde)
 ### SpaceGame
-Discriptiom: OOP solution for a collision based space themed game
+Discription: OOP solution for a collision based space themed game
 ![Gameplay](https://github.com/Jae-Byrd/programmingportfolio/blob/main/images/Screenshot%202024-12-16%20at%2011.56.16%20AM.png)
 
 [SorceCode](https://github.com/Jae-Byrd/programmingportfolio/tree/main/src/term2/SpaceGame)
