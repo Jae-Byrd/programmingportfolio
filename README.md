@@ -8,7 +8,7 @@ Contact information:
 ![Snail on leaf](https://cdn.hswstatic.com/gif/snail-shell.jpg)
 
 # Certificates:
-![Programming certificate](images/Jae E Karppinen_Computer Programming I_12162024.pdf)
+![Programming certificate]()
 
 [Link to github](https://github.com/) 
   
